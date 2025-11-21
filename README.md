@@ -14,7 +14,7 @@ This is a simple yet powerful text processing application designed to perform va
 
 🛠️ Technologies Used
 
-- Programming Language: [Insert language here, e.g. Python]
+- Programming Language: Java
 - Interface: Command-line / GUI (adjust based on your implementation)
 
 💡 Use Case
